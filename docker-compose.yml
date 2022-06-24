@@ -1,0 +1,8 @@
+version: '2'
+services:
+
+  backend-birthday-service:
+    container_name: backend-birthday-service
+    build:
+      context: .
+      dockerfile: DockerFile

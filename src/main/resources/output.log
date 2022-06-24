@@ -1,0 +1,31 @@
+2022-06-23 20:12:44 INFO  Hello
+w2022-06-23 20:12:44 INFO  [People{firstName='John', lastName='Baker', birthday=1988-06-23}]
+w2022-06-23 20:13:43 INFO  People whose birthday is today : [People{firstName='John', lastName='Baker', birthday=1988-06-23}]
+w2022-06-23 20:14:49 INFO  People whose birthday is on 2022-06-23 : [People{firstName='John', lastName='Baker', birthday=1988-06-23}]
+w2022-06-23 20:21:45 INFO  People whose birthday is on 2022-06-23 : [People{firstName='John', lastName='Baker', birthday=1988-06-23}]
+w2022-06-23 20:25:55 INFO  People whose birthday is on 2022-06-23 : [People{firstName='John', lastName='Baker', birthday=1988-06-23}]
+w2022-06-23 20:26:44 INFO  People whose birthday is on 2022-06-23 : [People{firstName='John', lastName='Baker', birthday=1988-06-23}]
+w2022-06-23 20:28:27 INFO  People whose birthday is on 2022-06-23 : [People{firstName='John', lastName='Baker', birthday=1988-06-23}]
+w2022-06-23 20:29:58 INFO  People whose birthday is on 2022-06-23 : [People{firstName='John', lastName='Baker', birthday=1988-06-23}]
+w2022-06-23 20:30:56 INFO  People whose birthday is on 2022-06-23 : [People{firstName='John', lastName='Baker', birthday=1988-06-23}]
+w2022-06-24 00:06:38 INFO  People whose birthday is on 2022-06-24 : []
+w2022-06-24 00:12:54 ERROR java.io.IOException: Is a directory
+w2022-06-24 00:13:19 ERROR Index 0 out of bounds for length 0
+w2022-06-24 00:13:42 ERROR Index 0 out of bounds for length 0
+w2022-06-24 00:14:01 ERROR Index 0 out of bounds for length 0
+w2022-06-24 00:16:09 ERROR Index 0 out of bounds for length 0
+w2022-06-24 00:16:17 INFO  People whose birthday is on 2022-06-24 : []
+w2022-06-24 00:16:32 ERROR java.io.IOException: Is a directory
+w2022-06-24 00:16:51 ERROR java.io.IOException: Is a directory
+w2022-06-24 00:17:28 ERROR java.io.IOException: Is a directory
+w2022-06-24 00:18:08 ERROR java.io.IOException: Is a directory
+w2022-06-24 00:18:17 ERROR java.io.IOException: Is a directory
+w2022-06-24 00:20:39 ERROR java.io.IOException: Is a directory
+w2022-06-24 00:21:03 INFO  People whose birthday is on 2022-06-24 : []
+w2022-06-24 00:22:01 INFO  People whose birthday is on 2022-06-24 : []
+w2022-06-24 00:22:14 INFO  People whose birthday is on 2022-06-24 : []
+w2022-06-24 00:24:23 INFO  People whose birthday is on 2022-06-24 : []
+w2022-06-24 00:25:29 INFO  People whose birthday is on 2022-06-24 : []
+w2022-06-24 00:25:58 INFO  People whose birthday is on 2022-06-24 : []
+w2022-06-24 00:26:20 INFO  People whose birthday is on 2022-06-24 : []
+w
